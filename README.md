@@ -1,4 +1,4 @@
-BlueJava
+Movie Finder
 ===============================================================
 
 Before you install the application
